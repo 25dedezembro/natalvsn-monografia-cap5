@@ -68,7 +68,7 @@ public class Ambiente extends JFrame implements KeyListener {
 		while(true) {
 			long start = System.currentTimeMillis();
 			gameLoop();
-			while(System.currentTimeMillis()-start < 5) {
+			while(System.currentTimeMillis()-start < 15) {
 			}
 		}
 		
