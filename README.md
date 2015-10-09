@@ -1,12 +1,5 @@
 # natalvsn-monografia-cap5
-Arquivos originais retirados de: code.google.com/p/natalvsn-monografia-cap5
 
-Com o desligamento do Google Code optou-se por utilizar o github. 
+Estudo de caso referenciado no capítulo 5 da Monografia "Aplicação de Técnicas de Inteligência Artificial em Jogos Eletrônicos", por Natal Vieira de Souza Neto (Ciência da Computação, 8º Período, Unitri - Centro Universitário do Triângulo).
 
-A Monografia está no arquivo: monografia.pdf
-
-Para executar o jogo no Linux:
-
-  $ javac Ambiente.java
-  
-  $ java Ambiente
+A monografia completa pode ser encontrada na biblioteca da instituição (http://www.unitri.edu.br).
